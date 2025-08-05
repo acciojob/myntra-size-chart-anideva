@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+	width:70%;
+	margin:20px auto;
+	font family:Ariel,sans-serif;
+}
+thead{
+	background-color: pink;
+	
+}
+th,td{
+	border:1 px solid green;
+	padding: 10px;
+	text-align:center;
+}
+caption{
+	font-size:20px;
+	font-style:sans-serif;
+	text-decoration:underline;
+	margin-bottom:10px;
+	
+}
